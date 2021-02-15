@@ -1,0 +1,10 @@
+header {
+    background-color: green;
+}
+
+.heading-bar {
+    color: white;
+    padding: 16px;
+    text-align: center;
+    font-size: 2em;
+}
